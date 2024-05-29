@@ -8,6 +8,7 @@ this tool allows to decrypt and reencrypt images for the XK3Y ("X360Key") Mod Ch
 
 
 References:
+
 [original post with aes keys](https://gbatemp.net/threads/hacking-xk3y-x360key-aes-keys-released.626440/)
 
 [original stackexchange post](https://reverseengineering.stackexchange.com/questions/21158/help-needed-to-extract-u-boot-kernel-rootfs-nxp-lpc-3143-processor)
